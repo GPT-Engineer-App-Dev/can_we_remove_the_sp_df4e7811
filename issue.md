@@ -1,0 +1,1 @@
+Can we remove the spacing between the two screenshots? (I assume this is due to the Skip button which stretches the column)
